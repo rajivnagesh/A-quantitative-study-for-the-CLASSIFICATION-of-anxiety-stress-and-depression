@@ -9,4 +9,5 @@ https://www.kaggle.com/yamqwe/depression-anxiety-stress-scales
 
 The Project was a work for the course EAS 509 at the University at Buffalo.\
 The powerpoints of every phase in the folder 'Documents" demonstrates the ongoing process in the various phases viz. Phase 1, 2 and 3.\
-The folder "Data Cleaning" explains how we used Python to clean the data taken off kaggle and made it ready for our pipeline to run models thereby creating an interactive visualizer.
+The folder "Data Cleaning" explains how we used Python to clean the data taken off kaggle and made it ready for our pipeline to run models thereby creating an interactive visualizer.\
+The folder "Cluster Visualization" shows a few graphs of how the data was used to visualize the insights on various aspects. It contains .ipynb files where you can see the various graphs on how the ASD score varies in different sub sectors. 
