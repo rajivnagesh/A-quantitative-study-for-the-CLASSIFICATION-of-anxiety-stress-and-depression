@@ -5,7 +5,7 @@ The underlying aim of this project is to create a dynamic R Shiny application th
 Python Environment, R Studio
 
 ## Questions and Data source –
-https://www.kaggle.com/yamqwe/depression-anxiety-stress-scales 
+https://www.kaggle.com/yamqwe/depression-anxiety-stress-scales\
 (If the above link does not work, you can find the data and the data dictionary of the same in the repository under the folder "Raw Data". 
 
 The Project was a work for the course EAS 509 at the University at Buffalo.\
